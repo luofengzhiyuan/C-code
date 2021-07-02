@@ -4,6 +4,7 @@ int main(void)
 {
 	printf("请输入三个整数\n");
 	f1();
+	return 0;
 }
 void f1(void)
 {
