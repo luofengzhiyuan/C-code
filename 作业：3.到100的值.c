@@ -8,4 +8,5 @@ int main(void)
 		num += i;
 	}
 	printf("1到100的值为%d\n",num);
+	return 0;
 }
