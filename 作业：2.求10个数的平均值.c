@@ -5,6 +5,7 @@ int main(void)
 {
 	printf("请输入十个数\n");
 	average();
+	return 0;
 }
 int f1(void)
 {
